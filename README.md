@@ -13,7 +13,8 @@ The system is designed to handle:
 
 ## 🧠 Pipeline Architecture
 
-![Pipeline]([https://via.placeholder.com/800x400.png?text=Pipeline+Architecture](https://github.com/sandeepshakya2019/Action-Recognization-of-Person-in-Aerial-Videos/blob/main/images/pipeline-diagram.png))
+<img width="450" height="615" alt="image" src="https://github.com/user-attachments/assets/9af8d997-0f2b-4f16-9a5d-6818f1dae3f3" />
+
 
 ### 🔁 Workflow
 1. **Detection** → YOLOv8 detects persons  

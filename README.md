@@ -62,11 +62,17 @@ The system is designed to handle:
 ### 🔹 Action Recognition Output
 <img width="293" height="197" alt="image" src="https://github.com/user-attachments/assets/4af6769c-a965-4288-9ec2-b01f1d4dbd81" />
 
+#### Per class 
+
 <img width="825" height="440" alt="image" src="https://github.com/user-attachments/assets/0bd8a97d-e18e-4ae7-bd6c-e3da1be96265" />
 
 ### Visualization images
 
+#### YOLO Visuals
+
 <img width="928" height="501" alt="image" src="https://github.com/user-attachments/assets/a8001354-0ad5-43a7-bb22-41b0a08ec284" />
+
+#### Timesformer Visuals
 
 <img width="917" height="493" alt="image" src="https://github.com/user-attachments/assets/50165cbd-b7ad-4b36-8985-ce5b48713886" />
 

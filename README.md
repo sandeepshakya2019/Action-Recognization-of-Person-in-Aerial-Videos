@@ -13,7 +13,7 @@ The system is designed to handle:
 
 ## 🧠 Pipeline Architecture
 
-![Pipeline](https://via.placeholder.com/800x400.png?text=Pipeline+Architecture)
+![Pipeline]([https://via.placeholder.com/800x400.png?text=Pipeline+Architecture](https://github.com/sandeepshakya2019/Action-Recognization-of-Person-in-Aerial-Videos/blob/main/images/pipeline-diagram.png))
 
 ### 🔁 Workflow
 1. **Detection** → YOLOv8 detects persons  
@@ -55,10 +55,12 @@ The system is designed to handle:
 ## 📸 Results Visualization
 
 ### 🔹 Detection + Tracking Output
-![Tracking Output](https://via.placeholder.com/800x400.png?text=Detection+and+Tracking+Output)
+<img width="276" height="129" alt="image" src="https://github.com/user-attachments/assets/8b36d2be-3b8f-4c0c-8b15-d76b7967b28a" />
+
 
 ### 🔹 Action Recognition Output
-![Action Output](https://via.placeholder.com/800x400.png?text=Action+Recognition+Output)
+<img width="293" height="197" alt="image" src="https://github.com/user-attachments/assets/4af6769c-a965-4288-9ec2-b01f1d4dbd81" />
+
 
 ---
 
@@ -80,9 +82,3 @@ The system is designed to handle:
 - Multi-label classification  
 
 ---
-
-## 🚀 Installation
-
-```bash
-git clone https://github.com/sandeepshakya2019/Action-Recognization-of-Person-in-Aerial-Videos.git
-cd Action-Recognization-of-Person-in-Aerial-Videos

@@ -1,0 +1,8 @@
+# person.yaml
+path: /home1/jtt_1/mtp/dataset-yolo-person  # root dataset path
+
+train: images/train
+val: images/test
+
+names:
+  0: person

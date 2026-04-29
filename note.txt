@@ -1,0 +1,7 @@
+python -u visualize_swin_multilabel_optimized.py   --config configs/recognition/swin/swin_tiny_patch244_window877_okutama_multilabel_optimized.py   --checkpoint /home1/jtt_1/mtp/swin-person-dataset-full/swin-tiny-multilabel-optimized-output/best_mAP_epoch_4.pth   --output_dir /home1/jtt_1/mtp/swin-person-dataset-full/visualizations_optimized
+
+
+cd /home1/jtt_1/mtp/Video-Swin-Transformer
+mv .git .git_backup
+
+source python-env-1080ti/bin/activate
